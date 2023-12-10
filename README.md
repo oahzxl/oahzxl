@@ -10,4 +10,4 @@
 
 I am a first-year PhD student in Computer Science at National University of Singapore advised by Yang You. My research focuses on efficient and scalable machine learning system. 
 
-Visit my homepage for more information. Seeking for collaboration in such fields, feel free to reach out to me via email!
+Visit my homepage for more information. Feel free to reach out to me via email for collaboration!
