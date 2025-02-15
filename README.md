@@ -8,6 +8,6 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oahzxl)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuanlei-zhao-731ab324a/)
 
-I am a first-year PhD student in Computer Science at National University of Singapore advised by Yang You. My research focuses on efficient and scalable machine learning system. 
+I am a second-year PhD student in Computer Science at National University of Singapore advised by Yang You. My research focuses on efficient and scalable machine learning. 
 
 Visit my homepage for more information. Feel free to reach out to me via email for collaboration!
